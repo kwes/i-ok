@@ -1,8 +1,8 @@
 # i-ok
-## short desc
+### short desc
 small math esolang thing
 
-## how to use
+### how to use
 | chars   | desc |
 | --------| --------|
 | i+      | adds    |
