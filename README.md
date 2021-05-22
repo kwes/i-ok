@@ -1,9 +1,9 @@
 # i-ok
 
-### short desc
-small math esolang thing
+## short desc
+small math esolang for small numbers and equations
 
-### how to use
+## how to use
 | chars   | desc |
 | --------| --------|
 | i+      | adds    |
@@ -14,7 +14,7 @@ small math esolang thing
 ```
 i+ i+ i- i* this would equal 2
 ```
-#### letters
+### letters
 going over 15 turns numbers into letters
 ```
 i+ i+ i* i* i* this would be 'a'
