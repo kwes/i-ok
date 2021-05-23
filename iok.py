@@ -35,4 +35,26 @@ def run():
     res = "i"
   elif res >= a + 9:
     res = "null"
+  elif res == ps: #special chars
+    res = "!"
+  elif res == ps - 1:
+    res = "@"
+  elif res == ps - 2:
+    res = "#"
+  elif res == ps - 3:
+    res = "$"
+  elif res == ps - 4:
+    res = "%"
+  elif res == ps - 5:
+    res = "^"
+  elif res == ps - 6:
+    res = "&"
+  elif res == ps - 7:
+    res = "*"
+  elif res == ps - 8:
+    res = "("
+  elif res == ps - 9:
+    res = ")"
+  elif res <= ps - 10:
+    res = "null"
   print(res)
