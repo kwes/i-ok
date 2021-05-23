@@ -24,4 +24,9 @@ going over 24 turns result into null
 
 the same applies for going negative, special characters range from ! to  )  going above 26 results in null
 
+### setting up
+download the iok.py, and import it
+``` python
+from iok import run
+```
 
