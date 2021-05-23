@@ -15,6 +15,10 @@ def run():
       res *= 2
     elif char == "i/":
       res /= 2
+     elif char == "i--":
+      res -= 2
+    elif char == "i++":
+      res += 2
   if res == a:
     res = "a"
   elif res == a + 1:
