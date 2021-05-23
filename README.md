@@ -26,7 +26,11 @@ the same applies for going negative, special characters range from ! to  )  goin
 
 ### setting up
 download the iok.py, and import it
+
+put this in main
 ``` python
 from iok import run
 ```
+then make a main.iok file, then code to your heart's content
+
 
