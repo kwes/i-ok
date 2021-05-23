@@ -6,8 +6,8 @@ small math esolang for small numbers and equations
 ## how to use
 | chars   | desc |
 | --------| --------|
-| i+      | adds    |
-| i-      | subtracts|
+| i+ or i++| adds    |
+| i- or i--| subtracts|
 | i*      | multiples by 2|
 | i/      | divides by 2|
 
