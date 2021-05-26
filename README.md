@@ -19,8 +19,8 @@ turning the digit over 15 converts numbers into letters
 ```
 i+ i+ i* i* i* this would be 'a'
 ```
-the range for letters is a-i
-going over 24 turns result into null
+the range for letters is a-y
+going over 40 turns result into null
 
 the same applies for going negative, special characters range from ! to  )  going above 26 results in null
 
